@@ -32,7 +32,8 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Brick\\Math\\": "src/"
+                    "Brick\\Math\\": "src/",
+                    "App\\": "app/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
